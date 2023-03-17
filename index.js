@@ -1,1 +1,1 @@
-console.log("bem vindo ao, eco site")
+console.log("este é o projeto ecomuseu, bem vindo!")
