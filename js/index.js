@@ -1,1 +1,1 @@
-console.log("este é o projeto ecomuseu, bem vindo!")
+console.log("este é o projeto ecomuseu, bem vindo.")
