@@ -13,4 +13,6 @@ html, body {
 
 .barra-navegacao a {
     padding: 13px;
+    color: white;
+    text-decoration: none;
 }
