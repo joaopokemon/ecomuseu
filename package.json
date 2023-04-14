@@ -4,7 +4,7 @@
   "description": "Projeto do Ecomuseu de Sao Jose dos Campos",
   "main": "./backend/main.js",
   "scripts": {
-    "test": "node ./backend/main.js"
+    "serve": "node ./backend/main.js"
   },
   "author": "Joao Tambor Silva",
   "license": "ISC",
