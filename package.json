@@ -1,11 +1,14 @@
 {
   "name": "ecomuseu",
   "version": "1.0.0",
-  "description": "",
-  "main": "./js/index.js",
+  "description": "Projeto do Ecomuseu de Sao Jose dos Campos",
+  "main": "./backend/main.js",
   "scripts": {
-    "test": "node ./js/index.js"
+    "test": "node ./backend/main.js"
   },
-  "author": "joao tambor silva",
-  "license": "ISC"
+  "author": "Joao Tambor Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
