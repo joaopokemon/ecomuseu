@@ -55,10 +55,10 @@ a {
 .dragao img {
     width: 10%;
     animation-name: voo_dragao;
-    animation-duration: 16s;
+    animation-duration: 20s;
     position: relative;
     animation: voo_dragao;
-    animation-duration: 16s;
+    animation-duration: 20s;
 }
 
 @keyframes voo_dragao {
