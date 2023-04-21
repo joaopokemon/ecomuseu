@@ -1,6 +1,6 @@
 {
   "name": "ecomuseu",
-  "version": "1.0.0",
+  "version": "1.00",
   "description": "Projeto do Ecomuseu de Sao Jose dos Campos",
   "main": "./backend/main.js",
   "scripts": {
