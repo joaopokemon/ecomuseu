@@ -55,7 +55,7 @@ a {
 .dragao img {
     width: 10%;
     animation-name: voo_dragao;
-    animation-duration: 20s;
+    animation-duration: 5s;
     position: relative;
     animation: voo_dragao;
     animation-duration: 20s;
